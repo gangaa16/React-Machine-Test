@@ -77,7 +77,7 @@ li {
 }
 
 .edit-form button {
-    background-color: #28a745; /* Green for save button */
+    background-color: #28a745; 
 }
 
 .edit-form button:hover {
@@ -91,11 +91,11 @@ li {
 .edit-form input[type="text"],
 .edit-form input[type="email"],
 .edit-form input[type="password"] {
-    width: calc(100% - 22px); /* Adjust for padding and border */
+    width: calc(100% - 22px);
 }
 
 .cancel-button {
-    background-color: #dc3545; /* Red for cancel button */
+    background-color: #dc3545; 
 }
 
 .cancel-button:hover {
